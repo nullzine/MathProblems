@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MagicSquare/MagicSquare.iml" filepath="$PROJECT_DIR$/MagicSquare/MagicSquare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math.iml" filepath="$PROJECT_DIR$/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math1/Math1.iml" filepath="$PROJECT_DIR$/Math1/Math1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math10/Math10.iml" filepath="$PROJECT_DIR$/Math10/Math10.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Math7/Math7.iml" filepath="$PROJECT_DIR$/Math7/Math7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math8/Math8.iml" filepath="$PROJECT_DIR$/Math8/Math8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math9/Math9.iml" filepath="$PROJECT_DIR$/Math9/Math9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheNQueenProblem/TheNQueenProblem.iml" filepath="$PROJECT_DIR$/TheNQueenProblem/TheNQueenProblem.iml" />
     </modules>
   </component>
 </project>
